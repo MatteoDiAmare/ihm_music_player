@@ -2,6 +2,8 @@
 
 Ett musikspelarprojekt för **Teknik för digitala plattformar**. Här finns en färdig server med ett musikbibliotek och ett API. Ni bygger gränssnittet och får det att fungera med HTML, CSS och JavaScript.
 
+Vill ni bygga en första fungerande version med tydliga stopp för att testa och undersöka? Följ [Bygg musikspelaren steg för steg](BYGG_MUSIKSPELAREN.md). Där finns HTML och JavaScript att klistra in, förklaringar till varje del samt övningar med GET, POST, `localStorage` och DevTools.
+
 ## Arbeta lokalt med GitHub Desktop och Visual Studio Code
 
 Ni behöver GitHub Desktop, Visual Studio Code och Node.js 20 eller senare på datorn.
